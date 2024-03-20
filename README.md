@@ -6,3 +6,4 @@ Ongoing project, where I explore the use of HTML, CSS, Javascript, and Node.js t
 Node Packages\
 • npm install dotenv\
 • npm install express
+• Create .env file and enter your CLIENT_ID, CLIENT_SECRET, and REDIRECT_URI
